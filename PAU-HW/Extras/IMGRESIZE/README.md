@@ -39,7 +39,3 @@ The script will display a 2x2 grid of subplots, each showing a different image r
 - Subplot 2: Bilinear interpolation with a scaling factor of 1.5.
 - Subplot 3: Nearest-neighbor interpolation with a scaling factor of 0.5.
 - Subplot 4: Bicubic interpolation with a scaling factor of 0.5.
-
-```
-
-```
