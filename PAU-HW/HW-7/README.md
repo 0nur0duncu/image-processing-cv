@@ -67,4 +67,4 @@ To run this code:
 2. Install the necessary libraries by running:
    ```bash
    pip install numpy opencv-python matplotlib
-```
+   ```
